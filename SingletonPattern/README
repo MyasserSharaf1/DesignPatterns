@@ -1,0 +1,17 @@
+# Singleton Design Pattern
+
+## Overview
+The **Singleton Pattern** ensures that a class has only one instance and provides a global point of access to that instance. This is useful in scenarios where a single instance of a class is required to coordinate actions across the system.
+
+## Key Points
+- Ensures that only one instance of a class is created.
+- Provides a global access point to that instance.
+- Used often for resource management, such as logging, configuration settings, etc.
+
+## How to Run
+1. Compile the `SingletonPattern.java`.
+2. Run the class to see how the single instance is maintained throughout the execution.
+
+## Example Use Cases
+- Database connections
+- Logger services
