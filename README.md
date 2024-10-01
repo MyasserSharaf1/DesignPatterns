@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/DesignPatternsPractice.git
+git clone https://github.com/MyasserSharaf1/DesignPatterns.git
 Navigate to the desired design pattern:
 
 Each design pattern is stored in its own folder (e.g., SingletonPattern, FactoryPattern).
