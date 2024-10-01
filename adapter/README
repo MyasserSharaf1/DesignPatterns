@@ -1,0 +1,17 @@
+# Adapter Design Pattern
+
+## Overview
+The **Adapter Pattern** allows two incompatible interfaces to work together. This is done by creating an adapter class that wraps an existing class and translates the interface into one that the client expects.
+
+## Key Points
+- Converts one interface into another.
+- Promotes reusability of classes by adapting them to work together.
+- Used when working with legacy code or third-party libraries.
+
+## How to Run
+1. Compile the `AdapterPattern.java`.
+2. Run the class to see how an adapter enables compatibility between otherwise incompatible interfaces.
+
+## Example Use Cases
+- Adapting a legacy system to work with modern APIs.
+- Wrapping a third-party library to fit your application’s interface.
