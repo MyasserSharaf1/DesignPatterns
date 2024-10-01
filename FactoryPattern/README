@@ -1,0 +1,17 @@
+# Factory Design Pattern
+
+## Overview
+The **Factory Pattern** provides a way to instantiate objects while keeping the process abstract. This pattern defines an interface for creating an object but allows subclasses to alter the type of objects that will be created.
+
+## Key Points
+- Encapsulates object creation logic.
+- Promotes loose coupling by delegating instantiation to subclasses or methods.
+- Useful when the exact type of object may not be known until runtime.
+
+## How to Run
+1. Compile the `FactoryPattern.java`.
+2. Run the class and see how different objects are created through a common interface.
+
+## Example Use Cases
+- GUI toolkits for creating different window elements.
+- Document creation tools (Word, PDF, etc.).
