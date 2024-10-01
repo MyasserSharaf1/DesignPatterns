@@ -1,0 +1,17 @@
+# Strategy Design Pattern
+
+## Overview
+The **Strategy Pattern** defines a family of algorithms, encapsulates each one, and makes them interchangeable. This pattern allows the algorithm to vary independently from clients that use it.
+
+## Key Points
+- Encapsulates algorithms within classes.
+- Promotes flexibility in choosing the best strategy/algorithm at runtime.
+- Enables code that uses the strategy to be easily extended with new strategies without altering existing code.
+
+## How to Run
+1. Compile the `StrategyPattern.java`.
+2. Run the class and switch between strategies to see the behavior change dynamically.
+
+## Example Use Cases
+- Payment methods in an e-commerce app (Credit Card, PayPal, etc.).
+- Compression algorithms (ZIP, RAR, etc.).
