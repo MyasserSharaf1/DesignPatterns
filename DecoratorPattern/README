@@ -1,0 +1,17 @@
+# Decorator Design Pattern
+
+## Overview
+The **Decorator Pattern** allows behavior to be added to individual objects, dynamically, without affecting the behavior of other objects from the same class. This pattern is useful for adding functionality to objects in a flexible way.
+
+## Key Points
+- Extends the behavior of an object at runtime.
+- Promotes flexibility by allowing functionalities to be mixed and matched.
+- Avoids subclassing by using composition instead.
+
+## How to Run
+1. Compile the `DecoratorPattern.java`.
+2. Run the class and observe how behavior is dynamically added to objects.
+
+## Example Use Cases
+- Extending functionality in UI components.
+- Wrapping objects to add logging or data validation.
