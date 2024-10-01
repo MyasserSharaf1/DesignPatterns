@@ -1,0 +1,17 @@
+# Facade Design Pattern
+
+## Overview
+The **Facade Pattern** provides a simplified interface to a complex system. It abstracts away the details of the subsystems and provides clients with a simple and unified interface to interact with.
+
+## Key Points
+- Simplifies the interface for clients.
+- Reduces complexity by hiding the internal workings of subsystems.
+- Useful when dealing with large systems with many interdependencies.
+
+## How to Run
+1. Compile the `FacadePattern.java`.
+2. Run the class to see how a simplified interface interacts with complex subsystems.
+
+## Example Use Cases
+- Providing a simplified API for complex libraries.
+- Interacting with large systems like a home theater or computer startup process.
